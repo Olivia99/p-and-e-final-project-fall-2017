@@ -49,8 +49,11 @@ What did you do in each of the past five weeks?
 ## Completed Work
 
 Photos and videos of your completed final project!
+
 [schematic-instructions](https://user-images.githubusercontent.com/31739027/34119373-c0bf9528-e3d6-11e7-89c9-f3691147c6c2.JPG)
+
 [color range testing](https://user-images.githubusercontent.com/31739027/34119686-f7fba9cc-e3d7-11e7-815f-357d02d554b6.JPG)
+
 [Final presentation]()
 
 ## References and links
