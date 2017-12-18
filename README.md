@@ -18,15 +18,16 @@ Interaction:
 * Press switch button to change the key note.
 
 
-## Component Parts
-* Flora Color Sensor, for regenize colors
-* Speaker x1
-* Motor x2 
+## Component PartsFlora Color Sensor, for differentiating colors(INPUT)
+
+* Speaker, for producing sounds (OUTPUT)
+* Motor, for spin the color sheet (OUTPUT)
 * transistor for motors x2
 * resistor x2
 * Arduino UNO board x2
 * wires 
 * battery x1 (or two separate batteries if you don’t want to plug your Arduino in your laptop)
+
 
 * before you go to coding part, make sure following this tutorials online and download the libraries that are needed
 
