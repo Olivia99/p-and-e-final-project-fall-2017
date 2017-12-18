@@ -29,16 +29,11 @@ Interaction:
 * battery x1 (or two separate batteries if you don’t want to plug your Arduino in your laptop)
 
 * before you go to coding part, make sure following this tutorials online and download the libraries that are needed
-[Motor installation schematic-instructions]( https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/schematic-instructions.pdf ) 
-
-[color sensor installation reference](https://learn.adafruit.com/adafruit-color-sensors/assembly-and-wiring)
-
-[piano glove]( https://learn.adafruit.com/pianoglove) you need to download color sensor library from it.
-
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+always make sure your wire is working!
+
 
 ## Timeline
 
@@ -55,4 +50,10 @@ What did you do in each of the past five weeks?
 Photos and videos of your completed final project!
 
 ## References and links
+[Motor installation schematic-instructions]( https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/schematic-instructions.pdf ) 
 
+[color sensor installation reference](https://learn.adafruit.com/adafruit-color-sensors/assembly-and-wiring)
+
+[piano glove]( https://learn.adafruit.com/pianoglove) you need to download color sensor library from it.
+
+[The code I wrote](https://github.com/Olivia99/motor/tree/master)
