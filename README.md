@@ -54,7 +54,11 @@ Photos and videos of your completed final project!
 
 [color range testing](https://user-images.githubusercontent.com/31739027/34119686-f7fba9cc-e3d7-11e7-815f-357d02d554b6.JPG)
 
-[Final presentation]()
+[motor spinning testing1](https://youtu.be/RmAa5N5fa7U)
+
+[motor spinning testing2](https://youtu.be/8mVaTzxilyI)
+
+[Final presentation](https://youtu.be/DnAlE1LfgG8)
 
 ## References and links
 [Motor installation schematic-instructions]( https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/schematic-instructions.pdf ) 
