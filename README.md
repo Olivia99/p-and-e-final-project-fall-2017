@@ -30,7 +30,9 @@ Interaction:
 
 * before you go to coding part, make sure following this tutorials online and download the libraries that are needed
 [Motor installation schematic-instructions]( https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/schematic-instructions.pdf ) 
+
 [color sensor installation reference](https://learn.adafruit.com/adafruit-color-sensors/assembly-and-wiring)
+
 [piano glove]( https://learn.adafruit.com/pianoglove) you need to download color sensor library from it.
 
 
